@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=woosung)
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+</p>
 
 <!--
 **Choi-woosung/Choi-woosung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
